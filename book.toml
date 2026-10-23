@@ -1,0 +1,7 @@
+[book]
+title = "Solana Native Program Security"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/solana-native-program-security"
